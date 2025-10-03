@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.easysmok.fr/sitemap.xml
